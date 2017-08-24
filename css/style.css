@@ -1,0 +1,42 @@
+body: {
+	position: relative;
+}
+
+.container {
+	position: absolute;
+	left: 50%;
+	top: 2%;
+	transform: translate(-50%, -2%);
+}
+
+#top_panel {
+	position: relative;
+	text-align: center;
+	margin: 5px;
+}
+
+#reset {
+
+}
+
+.canvas {
+	position: relative;
+	border: 1px solid black;
+	width: 500px;
+	height: 500px;
+}
+
+.pixel {
+	position: relative;
+	float: left;
+}
+
+.pencil {
+	position: relative;
+	text-align: center;
+	margin: 5px;
+}
+
+.#status {
+
+}
